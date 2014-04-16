@@ -1,3 +1,9 @@
+# ignore project-managing files
+*.iml
+\.idea/
+# ignore maven packaging
+target/
+
 *.class
 *.log
 
